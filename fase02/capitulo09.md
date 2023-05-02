@@ -1,6 +1,6 @@
 <div id="fase02" align="center">
 <h1>FASE 2 - PROTOTYPING</h1>
-<h2>Capítulo 09: Quanto vale o show? 💵</h2>
+<h2>Capítulo 09: Quanto vale o show?</h2>
 </div>
 
 <div align="center">
@@ -332,17 +332,4 @@ Exemplos de métricas que permeiam o desenvolvimento de produtos e podem auxilia
 
 ---
 
-## FAST TEST
-
-### 1. Segundo PMBOK (2013), em gerenciamento de custos, há processos necessários para planejar e estimar custos de cada atividade. Selecione a alternativa que cita todos esses processos.
-> Planejar o gerenciamento de custos, estimar custos, determinar orçamento, controlar custos.
-
-### 2. No processo de estimativa de custos, há um importante item que contempla uma análise para decidir se um determinado pacote será desenvolvido, comprado pronto ou terceirizado. Como essa análise se chama?
-> Make or Buy.
-
-### 3. De acordo com a metodologia NPS (Net Promoter Score), selecione a alternativa correta:
-> Notas de clientes considerados promotores ocorrem entre 9 e 10, enquanto dos considerados neutros ocorrem entre 7 e 8.
-
----
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
