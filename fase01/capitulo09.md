@@ -138,8 +138,6 @@ Para solucionar esses problemas: **Nexus Guide**.
 - Fazer reuniões diárias conjuntas para que representantes de outros times possam participar, com o objetivo de compartilhar problemas, dependências e conhecimento.
 - Criar uma reunião de Scrum de Scrums para o acompanhamento das atividades, verificação de dependências e centralização das mudanças.
 
-> Para mais detalhes sobre escalar o Scrum, consultar o [Nexus Guide](www.scrum.org)!
-
 Ferramentas:
 
 - [ScrumHalf](http://myscrumhalf.com/?lang=pt)– brasileira. Facilita o uso do Scrum. Tem um quadro Kanban virtual e facilita a colaboração e o acompanhamento da equipe. É de fácil manutenção, prioriza o Product Backlog e gera o Burn Down Chart, entre outros.
@@ -147,4 +145,4 @@ Ferramentas:
 
 ---
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
