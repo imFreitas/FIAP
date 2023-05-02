@@ -196,17 +196,4 @@ Para definir a arquitetura de informação de um site, deve-se seguir algumas et
 
 ---
 
-## FAST TEST
-
-### 1. É preciso seguir algumas etapas para definir a arquitetura da informação de um site. Selecione a alternativa que melhor descreve a etapa Auditoria de Conteúdo:
-> Auditoria de conteúdo é avaliar para ver o quanto ele é útil, qual é o seu tom de voz e se deve mesmo entrar no site.
-
-### 2. Uma boa usabilidade deve cumprir 5 funções, Selecione a alternativa que descreve corretamente essas funções:
-> Eficiência, Aprendizagem, Satisfação, Prevenção de erros e Memorabilidade.
-
-### 3. Falando sobre as 10 heurísticas de Nielsen, selecione a afirmação correta sobre design minimalista:
-> Telas simples, somente com o que o usuário deve fazer, auxiliando o usuário a cumprir o objetivo.
-
---- 
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
