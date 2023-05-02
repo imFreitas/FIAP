@@ -1,6 +1,6 @@
 <div id="fase02" align="center">
 <h1>FASE 2 - PROTOTYPING</h1>
-<h2>Capítulo 06: Infelizmente, diagramas não são o suficiente... 😢</h2>
+<h2>Capítulo 06: Infelizmente, diagramas não são o suficiente...</h2>
 </div>
 
 <div align="center">
@@ -46,12 +46,6 @@
   - tem objetivo de desmembrar as ações entre os atores e o sistema.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/modelo-tabular.png" width="60%"><br>
-<em>Exemplo de aplicação do modelo tabular de documentação de caso de uso.</em>
-</div>
-
-<br>
 
 ## Itens que auxiliam a elaboração da documentação de caso de uso:
 
@@ -61,11 +55,6 @@
 - garante uma visão geral do sistema.
 - é possível utilizar uma tabela para ajudar na elaboração da lista.
 
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/lista-objetivo.png" width="60%"><br>
-<em>Lista por objetivo.</em>
-</div>
 
 <br>
 
@@ -178,12 +167,6 @@ O passageiro realiza o pagamento ao atendente no balcão da companhia. O atenden
 ### Título do caso de uso: UC – Consultar passagem
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/prototipo-viaje-conosco.png" width="40%"><br>
-<em>Protótipo do Consultar passagem.</em>
-</div>
-
-<br>
 
 ### Código identificador: UCXX – Consultar passagem.
 - onde “XX” = número do caso de uso.
@@ -195,31 +178,13 @@ O passageiro realiza o pagamento ao atendente no balcão da companhia. O atenden
 ### Ator secundário: sistema.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/ator-consultar-passagem.png" width="40%"><br>
-<em>Ator do Consultar passagem.</em>
-</div>
-
-<br>
 
 ### Pré-condição: o usuário deve estar logado no sistema.
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/pre-condicao-consultar-passagem.png" width="40%"><br>
-<em>Protótipo de Pré-condição.</em>
-</div>
 
 <br>
 
 ### Fluxo Principal: 
 - descrevemos o caminho ideal na forma de uma lista numerada em que uma ou mais linhas apresentam a ação do ator e, na seguinte, aparece a resposta do sistema, ou vice-versa.
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/fluxo-principal-consultar-passagem.png" width="50%"><br>
-<em>Fluxo Principal – Consultar passagem.</em>
-</div>
 
 <br>
 
@@ -296,60 +261,6 @@ Regras de negócio | RN01 - A consulta da cerveja pode ser pelo fabricante, nome
 
 </div>
 
-<details>
-<summary>UC02 – Registrar a compra</summary>
-<div align="center">
-<img src="../assets/imagens-fase02/dcus02.png" width="50%"><br>
-<em>UC02 – Registrar a compra.</em>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>UC03 – Calcular valor da compra</summary>
-<div align="center">
-<img src="../assets/imagens-fase02/dcus03.png" width="50%"><br>
-<em>UC03 – Calcular valor da compra.</em>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>UC04 – Cadastrar cliente</summary>
-<div align="center">
-<img src="../assets/imagens-fase02/dcus04.png" width="50%"><br>
-<em>UC04 – Cadastrar cliente.</em>
-</div>
-</details>
-
----
-
-## Template de Tabela para Documentação de Casos de Uso
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/modelo-tabela-dcu.png" width="50%"><br>
-<em>Template de documentação de caso de uso.</em>
-</div>
-
 --- 
 
-## FAST TEST
-
-### 1. Selecione a alternativa correta sobre Fluxo Alternativo de um Caso de Uso:
-> O Fluxo Alternativo descreve o comportamento alternativo para execução do fluxo principal. Ou seja, descreve alternativas que o usuário do sistema tem ao realizar o sluxo principal.
-
-### 2. Selecione a alternativa correta sobre Fluxo de Exceção de um caso de uso:
-> O fluxo de exceção descreve o que acontece quando um fluxo principal ou alternativo é impedido de prosseguir, como quando há inconsistência ou falha.
-
-### 3. Selecione a alternativa correta sobre pré-condições de um caso de uso:
-> Identifica outro caso de uso que deve ocorrer antes ou a hipótese que deve ser verdadeira antes da execução do caso de uso sendo descrito.
-
-### 4. Selecione a alternativa correta sobre Fluxo Principal de um caso de uso:
-> O fluxo principal descreve o passo a passo da interação entre ator(es) e sistema na execução de um caso de uso.
-
---- 
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
