@@ -33,11 +33,6 @@ Enquanto projetos criam um negócio, o objetivo das operações é mantê-lo fun
 
 O projeto gera um primeiro exemplar de um produto, geralmente chamado de protótipo, enquanto a operação gera o segundo exemplar em diante, ou seja, uma linha de montagem, tornando-os interdependentes.
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/projeto-versus-operacao.png" /><br>
-<em>Diferenças entre projeto e operação.</em>
-</div>
-
 ## Conceitos importantes:
 
 ### A) Partes interessadas (Stakeholders):
@@ -182,8 +177,6 @@ Está fundamentado em cinco valores:
 - Respeito (entre pessoas, reconhecendo que cada membro do time é capaz e independente).
 - Coragem (para fazer a coisa certa e trabalhar em problemas difíceis).
 
-> Para mais informações, acessar [este](www.scrum.org) ou [este](www.scrumalliance.org) links!
-
 ### Papéis:
 
 - `Scrum Master (SM)`: líder do processo de gerenciamento de projetos, apoiando tanto gerentes de projeto quanto membros do time de desenvolvimento e áreas de desenvolvimento de produto. Pode incluir também a gestão de projetos e do time, porém este nem sempre é o caso. Suas funções básicas são: proteger relacionamento com o cliente, resolver problemas que ocorrem durante o projeto, manter a equipe focada na execução do sprint e garantir o uso correto das regras SCRUM.
@@ -193,11 +186,6 @@ Está fundamentado em cinco valores:
 - `Time`: pessoas que realizam a construção do software; deve ser multidisciplinar (têm todas as habilidades e permissões necessárias para desenvolver, testar e entregar um incremento de produto) e autogerenciada. São responsáveis por definir o prazo e as metas dos Sprints (as quais tem prazo fixo, acordado por todos do Scrum Team, o que inclui o SM, o PO e os desenvolvedores).
 
 ### Características do SCRUM:
-
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/gestao-scrum.png" /><br>
-<em>Processo de gestão com SCRUM.</em>
-</div>
 
 a. `Product backlog`:
 
@@ -267,10 +255,6 @@ Falta de flexibilidade em se adaptar à nova realidade | Capacidade de adequaç�
 
 > Processos de gerenciamento ágeis envolvem uma série de quebras de paradigmas: equipe e cliente precisam ser treinados para haver uma melhor compreensão e efetividade.
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/caracteristicas-gerenciamento-agil.png" /><br>
-<em>Características do gerenciamento ágil.</em>
-</div>
 
 ## Análise comparativa: Gerenciamento Tradicional x Gerenciamento Ágil
 
@@ -359,43 +343,5 @@ As premiações e as comemorações pela realização de um projeto são fatores
 
 Para as organizações conservadoras, existe ainda a possibilidade de mesclar as características de ambos os métodos, permitindo uma avaliação gradativa dos pontos fortes e das principais restrições das duas abordagens.
 
-## FAST TEST
 
-### 1. O framework SCRUM é um dos mais utilizados para projetos ágeis. Ele tem uma definição clara de papéis, cerimônias e artefatos. Selecione a alterntiva que descreve corretamente todas as responsabilidades do Product Owner.
-
-> O Product Owner é o representante do cliente no projeto. É quem elabora o Product Backlog e o prioriza. Além disso, participa da definição do Sprint Backlog, da Sprint Review e decide se uma versão será lançada.
-
-### 2. Existem muitas diferenças entre o gerenciamento tradicional e a gestão ágil. Selecione a alternativa que melhor descreve as diferenças entre esses métodos na área do processo de definição do escopo.
-
-> No gerenciamento tradicional, o escopo é definido nas fases iniciais e formalizado por meio de EAP, enquanto na gestão ágil é definido em alto nível e detalhado tecnicamente à medida em que vai sendo priorizado.
-
-### 3. Fatores ambientais são condições da empresa que influenciam ou restringem projetos de alguma maneira, aumentando ou diminuindo opções de gerenciamento. Selecione a alternativa que NÃO É um fator ambiental mas que pode impactar um projeto:
-
-> Metodologia de gerenciamento de projetos, escolhida livremente pelo gerente de projetos.
-
-### 4. De acordo com o PMBOK (2013), um projeto pode ser definido como um empreendimento temporário com o objetivo de criar um produto ou serviço exclusivo. Selecione a alternativa que exemplifica corretamente um projeto:
-
-> Desenvolvimento de uma versão de um software que contém uma nova funcionalidade.
-
-A análise de requisitos é uma fase do gerenciamento de projetos, e não corresponde a um projeto em si porque não cria um produto ou serviço. Apenas ajuda a habilitar que alguém crie o produto ou serviço no futuro.
-
-### 5. A gestão ágil de projetos tem três características principais que a diferenciam da gestão de projetos tradicional. Selecione a alternativa que melhor descreve essas três características:
-
-> Requisitos instáveis, permitindo ao cliente alterá-los à medida que o projeto evolui. Além disso, arquitetura e requisitos não são detalhados no início, mas definidos à medida que o projeto evolui. Assim, as fases do projeto não são necessariamente sequenciais.
-
-### 6. Existem muitas diferenças entre o gerenciamento tradicional e a gestão ágil, porém há também áreas de processo nas quais ambos os métodos convergem. Selecione a alternativa que identifica quais são essas áreas de processo que convergem:
-
-> Gestão de qualidade e de riscos são áreas nas quais as metodologias de gestão convergem. Apesar de haver diferenças nas formas de controle e gestão, elas obedecem aos mesmos princípios.
-
-### 7. O framework SCRUM é um dos mais utilizados para projetos ágeis. Ele tem uma definição clara de papéis, cerimônias e artefatos. Selecione a alternativa que descreve corretamente todas as responsabilidades do Scrum Master:
-
-> O Scrum Master é o líder do processo de gerenciamento de projetos, apoiando o time de desenvolvimento e PO em suas tarefas. Além disso, resolve problemas e conflitos e garante o uso das regras do SCRUM.
-
-O Scrum Master é o faciltador entre a equipe e o cliente, ajudando a definir os processos em conjunto com o time, solucionando problemas e aplicando as regras do SCRUM. Dúvidas técnicas são de responsabilidade do próprio time.
-
-### 8. O gerente de projetos é um profissional generalista, porém proficiente na resolução de problemas para viabilizar um projeto. Selecione a alternativa que descreve corretamente habilidades de um gerente de projetos:
-
-> Viabilização de projeto de acordo com as exigências dos stakeholders, comunicando as ações necessárias a todos os envolvidos e solucionando conflitos por meio de negociação, influência e tomada de decisão.
-
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
