@@ -55,4 +55,4 @@ Sétima fase | ? | Integração da solução, unindo camadas view e model e torn
 
 **Importante:** ao longo das etapas, também será desenvolvido um chatbot.
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
