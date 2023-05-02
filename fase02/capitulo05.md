@@ -26,10 +26,6 @@
 - a técnica de modelagem de caso de uso que representam graficamente os Requisitos Funcionais do sistema são os Diagramas de Caso de Uso.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/objetivos-caso-de-uso.png" width="50%"><br>
-<em>Objetivos do modelo de caso de uso.</em>
-</div>
 
 - o modelo de caso de uso é elaborado durante as reuniões entre a equipe de desenvolvimento do sistema e as partes interessadas(stakeholders).
 - tem como ***objetivo*** especificar os requisitos.
@@ -51,10 +47,6 @@
 - a construção desse modelo implicaa definição de diversos elementos relevantes ao sistema que será desenvolvido: cenário, caso de uso, ator, fronteira e os relacionamentos.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/elementos-caso-de-uso.png" width="50%"><br>
-<em>Elementos de caso de uso.</em>
-</div>
 
 ### 1. Cenário:
 
@@ -144,12 +136,6 @@ Fluxo(s) de exceção | FE01 - O sistema exibe a mensagem "cerveja indisponível
   - caso a linha sólida não tenha a cabeça de flecha, então, quaisquer dos dois elementos, o caso de uso ou o ator, podem iniciar a interação.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/associacao-comunicacao.png" width="30%"><br>
-<em>Associação por comunicação.</em>
-</div>
-
-<br>
 
 ***b. Associação por inclusão:*** 
 <br>
@@ -164,10 +150,6 @@ Fluxo(s) de exceção | FE01 - O sistema exibe a mensagem "cerveja indisponível
 - representadas por uma linha tracejada e a seta aponta para o caso de uso incluído e o estereótipo `<<INCLUDE>>`.
 
 <br>
-<div align="center">
-<img src="../assets/imagens-fase02/associacao-inclusao.png" width="30%"><br>
-<em>Associação por inclusão.</em>
-</div>
 
 <br>
 
@@ -180,12 +162,6 @@ Fluxo(s) de exceção | FE01 - O sistema exibe a mensagem "cerveja indisponível
 - utilizado para modelar situações em que diferentes sequências de interações podem ser inseridas em um mesmo caso de uso.
 - não há como existir um relacionamento de associação de comunicação entre um ator solicitante e um caso de uso estendido.
 - representadas por uma linha tracejada e a seta aponta para o caso de uso que utiliza o caso de uso estendido e o estereótipo `<<EXTEND>>`.
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/associacao-extensao.png" width="30%"><br>
-<em>Associação por extensão.</em>
-</div>
 
 <br>
 
@@ -201,11 +177,6 @@ Fluxo(s) de exceção | FE01 - O sistema exibe a mensagem "cerveja indisponível
   - a redação dos casos de uso especializados se concentra nas diferenças.
 - pode existir entre dois casos de uso ou entre dois atores.
 
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/associacao-generalizacao.png" width="30%"><br>
-<em>Associação por generalização.</em>
-</div>
 
 <br>
 
@@ -250,12 +221,6 @@ O funcionário separa e envia os produtos para a transportadora que fará a entr
 Ao receber os produtos, o cliente assina a nota de entrega, que possui um QR code que identifica o pedido efetuado pelo cliente. Por meio do QR code, o funcionário efetua a baixa do pedido caso haja a assinatura do cliente e a data de entrega.<br>
 
 ***Pede-se:*** elaborar o Diagrama de Caso de Uso.
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/prototipo-e-commerce.png" width="50%"><br>
-<em>Protótipo de e-commercede cerveja.</em>
-</div>
 
 <br>
 
@@ -307,75 +272,9 @@ Dar baixa no pedido de compra | Funcionário | Dar baixa no pedido de compra ap�
 
 - deve-se verificar se existe a necessidade do relacionamento generalização entre os atores.
 
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/dcu-exemplo.png" width="40%"><br>
-<em>Diagrama de Caso de Uso.</em>
-</div>
-
-<br>
-
 ---
 
-## Exercício proposto
-
-Considere a especificação sobre os caixas eletrônicos de uma instituição financeira descrita a seguir.<br>
-A população enfrenta grandes filas nos bancos. Isso ainda ocorre porque os usuários do nosso sistema financeiro não conhecem totalmente as funções dos caixas eletrônicos que evitariam as filas no caixa do banco. Porém, o que exatamente os usuários podem fazer nos caixas eletrônicos?<br>
-O usuário insere o cartão, o sistema lê e faz a validação dos dados: agência, número da conta e tipo de operação do usuário. Se o cartão for inválido, o sistema exibe a mensagem “Cartão Inválido”, caso contrário, deve ativar as funções do caixa eletrônico. O sistema exibe as funções: Pagamento, Saque, Saldo, Depósito e Investimento.<br>
-O usuário seleciona a função desejada, o sistema solicita a senha. O usuário informa a senha, o sistema valida a senha. Se for inválida, o sistema exibe a mensagem “Senha Inválida”; se for válida, solicita o valor do saque, por exemplo.<br>
-O usuário informa o valor do saque, o sistema valida se há saldo suficiente na conta. Caso não tenha saldo, o sistema exibe a mensagem “Saldo Insuficiente”. Se tiver saldo, o sistema valida o valor do limite diário para saque. Se o valor estiver dentro do limite, registra o valor do saque e atualiza o saldo. No momento do registro do saque, instancia o objeto saque; senão, o sistema exibe a mensagem "Valor Excede o Limite".<br>
-<br>
-Pede-se: 
-
-1. Listar o(s) ator(es)desse cenário.
-
-- usuário.
-
-2. Listar os requisitos funcionais.
-
-<div align="center">
-
-Caso de uso | Ator | Objetivo
------------|-------|------------
-Ativar as funções do caixa eletrônico | Usuário | Acessar as funções do caixa eletrônico
-Ler os dados do cartão | Ator secundário: ação executada pelo sistema, desencadeada pelo usuário | Validar os dados do cartão
-Validar a senha | Ator secundário: ação executada pelo sistema, desencadeada pelo usuário | Validar a senha do usuário
-Sacar | Usuário | Registrar o valor do saque
-Consultar o saldo da conta | Ator secundário: ação executada pelo sistema, desencadeada pelo usuário | Consultar se há saldo suficiente para registrar o saque
-Validar o valor do saque | Ator secundário: ação executada pelo sistema, desencadeada pelo usuário | Validar se o valor do saque está dentro do limite diário para saque
-Atualizar o saldo da conta | Ator secundário: ação executada pelo sistema, desencadeada pelo usuário | Atualizar o saldo da conta
-
-</div>
-
-3. Elaborar o Diagrama de Caso de Uso
-
-<br>
-<div align="center">
-<img src="../assets/imagens-fase02/dcu-exercicio.png" width="40%"><br>
-<em>Diagrama de Caso de Uso.</em>
-</div>
-
-<br>
-
----
-
-## FAST TEST
-
-### 1. Selecione a alternativa correta sobre relacionamentos do tipo associação por comunicação:
-> Associação por comunicação indica caso no qual um ator troca informações. É representada por uma linha sólida no Diagrama.
-
-### 2. Selecione a alternativa correta sobre relacionamentos do tipo associação por inclusão:
-> Associação por inclusão pressupõe que exista um caso de uso base. O caso base inclui o caso específico, por isso a associação entre eles.
-
-### 3. Selecione a alternativa INCORRETA sobre a elaboração do Diagrama de Caso de Uso:
-> O Diagrama de Caso de Uso é usado apenas na fase de implementação de projeto de desenvolvimento de software,
-
-### 4. Selecione a alternativa correta sobre os casos de uso:
-> Caso de uso representa uma especificação detalhada de uma funcionalidade do sistema, ou seja, como o sistema executa a tarefa solicitada pelo ator.
-
-### 5. Selecione a alternativa correta sobre os atores do Diagrama de Caso de Uso:
 > Ator é um papel representado por algo ou alguém, sendo qualquer elemento externo ao sistema.
 
 --- 
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
