@@ -1,6 +1,6 @@
 <div id="fase02" align="center">
 <h1>FASE 2 - PROTOTYPING</h1>
-<h2>Capítulo 02: Quando a máquina começa a tomar decisões. 🤔</h2>
+<h2>Capítulo 02: Quando a máquina começa a tomar decisões. </h2>
 </div>
 
 <div align="center">
