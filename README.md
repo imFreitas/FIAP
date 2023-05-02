@@ -30,7 +30,7 @@
 <summary>COMPUTATIONAL THINKING USING PYTHON</summary>
 
 [Capítulo 01: E que comecem os preparativos!](fase02/capitulo01.md)<br>
-[Capítulo 02: Quando a máquina começa a tomar decisões.](fase02/capitulo01.md)<br>
+[Capítulo 02: Quando a máquina começa a tomar decisões.](fase02/capitulo02.md)<br>
 [Capítulo 03: Andar em círculos não é necessariamente ruim...](fase02/capitulo03.md)<br>
 [Capítulo 04: Quem tem o nome na lista?](fase02/capitulo04.md)
 </details>
