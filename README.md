@@ -12,7 +12,7 @@
 <summary>AGILE SOFTWARE DESIGN</summary>
 
 [Capítulo 01: Precisamos falar sobre finanças.](/fase01/capitulo01.md)<br>
-[Capítulo 02: Mas como um Software é criado?](/fase02/capitulo02.md)<br>
+[Capítulo 02: Mas como um Software é criado?](fase01/capitulo02.md)<br>
 [Capítulo 03: Por onde começamos?](/fase01/capitulo03.md)<br>
 [Capítulo 04: Primeiros passos na construção de um software.](/fase01/capitulo04.md)<br>
 [Capítulo 05: Atendendo a pedidos!](/fase01/capitulo05.md)<br>
