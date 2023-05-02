@@ -29,25 +29,25 @@
 <details>
 <summary>COMPUTATIONAL THINKING USING PYTHON</summary>
 
-[Capítulo 01: E que comecem os preparativos!]()<br>
-[Capítulo 02: Quando a máquina começa a tomar decisões.]()<br>
-[Capítulo 03: Andar em círculos não é necessariamente ruim...]()<br>
-[Capítulo 04: Quem tem o nome na lista?]()
+[Capítulo 01: E que comecem os preparativos!](fase02/capitulo01.md)<br>
+[Capítulo 02: Quando a máquina começa a tomar decisões.](fase02/capitulo01.md)<br>
+[Capítulo 03: Andar em círculos não é necessariamente ruim...](fase02/capitulo03.md)<br>
+[Capítulo 04: Quem tem o nome na lista?](fase02/capitulo04.md)
 </details>
 
 <details>
 <summary>AGILE SOFTWARE DESIGN</summary>
 
-[Capítulo 05: Entendendo o ponto de vista do usuário.]()<br>
-[Capítulo 06: Infelizmente, diagramas não são o suficiente...]()<br>
-[Capítulo 09: Quanto vale o show?]()
+[Capítulo 05: Entendendo o ponto de vista do usuário.](fase02/capitulo05.md)<br>
+[Capítulo 06: Infelizmente, diagramas não são o suficiente...](fase02/capitulo06.md)<br>
 </details>
 
 <details>
 <summary>RESPONSIVE WEB DEVELOPMENT</summary>
 
-[Capítulo 07: A experiência do usuário é um assunto sério!]()<br>
-[Capítulo 08: Quem vê interface, vê coração.]()<br>
+[Capítulo 07: A experiência do usuário é um assunto sério!](fase02/capitulo07.md)<br>
+[Capítulo 08: Quem vê interface, vê coração.](fase02/capitulo08.md)<br>
+[Capítulo 09: Quanto vale o show?](fase02/capitulo09.md)
 </details>
 <br>
 
