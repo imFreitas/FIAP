@@ -12,15 +12,15 @@
 <summary>AGILE SOFTWARE DESIGN</summary>
 
 [Capítulo 01: Precisamos falar sobre finanças.](/fase01/capitulo01.md)<br>
-[Capítulo 02: Mas como um Software é criado?]()<br>
-[Capítulo 03: Por onde começamos?]()<br>
-[Capítulo 04: Primeiros passos na construção de um software.]()<br>
-[Capítulo 05: Atendendo a pedidos!]()<br>
-[Capítulo 06: Desvendando a cabeça do usuário.]()<br>
-[Capítulo 07: Técnicas nunca são demais...]()<br>
-[Capítulo 08: Mãos à obra!]()<br>
-[Capítulo 09: Materializando o projeto.]()<br>
-[Capítulo 10: Vamos aprender a programar?]()
+[Capítulo 02: Mas como um Software é criado?](/fase02/capitulo01.md)<br>
+[Capítulo 03: Por onde começamos?](/fase01/capitulo03.md)<br>
+[Capítulo 04: Primeiros passos na construção de um software.](/fase01/capitulo04.md)<br>
+[Capítulo 05: Atendendo a pedidos!](/fase01/capitulo05.md)<br>
+[Capítulo 06: Desvendando a cabeça do usuário.]()<br>/fase01/capitulo06.md
+[Capítulo 07: Técnicas nunca são demais...](/fase01/capitulo07.md)<br>
+[Capítulo 08: Mãos à obra!](/fase01/capitulo08.md)<br>
+[Capítulo 09: Materializando o projeto.](/fase01/capitulo09.md)<br>
+[Capítulo 10: Vamos aprender a programar?](/fase01/capitulo10.md)
 
 </details>
 
