@@ -140,10 +140,6 @@ Independentemente da área de conhecimento, a engenharia de softwaretem elemento
 
 No manifesto ágil, considera-se que os requisitos não são estáveis durante todo o projeto, que as mudanças vão ocorrer em qualquer cenário e que as execuções sequenciais das fases de um projeto não são tão previsíveis como gostaríamos que fossem! A base detodos os frameworks ágeis é composta de: ***foco no time, cliente fazendo parte do projeto, entregas durante o ciclo do projeto e mudanças bem-vindas em qualquer momento do projeto***!
 
-<div align="center">
-<img width="80%" src="fase01/imagens-fase01/ciclodevida.png" /><br>
-<em>Ciclo de vida do processo de desenvolvimento de software.</em>
-</div>
 
 ## Teste de Proficiência:
 
@@ -156,4 +152,4 @@ No manifesto ágil, considera-se que os requisitos não são estáveis durante t
 3. Softwares podem ser definidos como "programas de computador", escritos em uma linguagem específica a fim de produzir a função e desempenho esperados. O qe é engenharia de software?
 > É um conjunto de métodos, ferramentas e procedimentos para desenvolvimento de software com objetivo de atender expectativas e necessidades dos stakeholders e entregar com qualidade.
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
