@@ -54,10 +54,6 @@
 
 ***Portanto***, é necessário definir quais atividades deverão ser executadas ao longo do projeto, além de quando, como e quem as executará!
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/etapas-desenv-software.png" /><br>
-<em>Etapas do processo de desenvolvimento de software.</em>
-</div>
 
 > Não existe um processoque seja o melhor, e sim, o que melhor se aplica à situação de desenvolvimento!
 
@@ -250,20 +246,11 @@ Os testes funcionais podem ser de ***caixa branca*** e de ***caixa preta***.
 - é um dos primeiros modelos de desenvolvimento.
 - a espera por um resultado final acabou se tornando inviável!
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/modelo-cascata.png" /><br>
-<em>Modelo de desenvolvimento cascata ou clássico.</em>
-</div>
-
 ## B) Modelo Iterativo e Incremental:
 
 - a cada nova entrega, é realizado um incremento do software, ou seja, adquire novas funcionalidades (repetição das etapas em ciclos diferentes e incrementais).
 - modelo mais utilizado no mercado, devido necessidade do usuário-cliente de receber porções do software antes de sua entrega por completo.
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/modelo-ii.png" /><br>
-<em>Modelo Iterativo e Incremental.</em>
-</div>
 
 Vantagens:
 - permite flexibilidade em ambientes de projeto onde existem indefinições de requisitos iniciais e a determinação do foco nos pontos mais críticos do projeto.
@@ -300,10 +287,6 @@ Importante: cerimônias são as reuniões que acontecem durante o ciclo Scrum de
 - construção em vários ciclos de entregas constantes de produtos, permitindo identificação de problemas nas fases iniciais e tomadas de ações, para corrigir o curso do desenvolvimento no tempo adequado e de maneira eficiente!
 - no Scrum, uma iteração = um Sprint (ciclo de análise, desenvolvimento, teste e entrega, com duração específica).
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/desenv-iterativo.png" /><br>
-<em>Desenvolvimento iterativo.</em>
-</div>
 
 - no modelo iterativo, a primeira iteração reúne os requisitos principais do produto,que são validados pelo cliente.
 - um plano é desenvolvido para a próxima iteração, para satisfazer as necessidades do cliente. 
@@ -330,33 +313,6 @@ Importante: cerimônias são as reuniões que acontecem durante o ciclo Scrum de
   - cliente esteja de acordo com os requisitos definidos.
   - limitação rígida do escopo seja atendida.
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/timebox.png" /><br>
-<em>Desenvolvimento timebox.</em>
-</div>
-
 > No Scrum, o Sprint representa tanto as iterações quanto define o seu timebox, pois tem duração fixa e determina quando deve haver planejamento, desenvolvimento e entrega de um incremento!
 
-## FAST TEST
-
-### 1. Considere os seguintes requisitos de uma funcionalidade de software: permitir anexar arquivos; usuário precisa estar logado para anexar arquivos. Qual destes requisitos é funcional e qual é regra de negócio?
-
-> Permitir anexar arquivos é requisito funcional, e necessidade do usuário estar logado para acessar funcionalidade é regra de negócio.
-
-### 2. Qual é o papel responsável por planejar projetos de implantação de sistemas e acompanhar as necessidades do negócio e dos clientes?
-
-> Coordenador e/ou gerente.
-
-### 3. De acordo com boas práticas de gestão ágil (XP), durante o levantamento de requisitos, o que precisa ser identificado inicialmente?
-
-> Business value, ou seja, o que pode agregar valor ao usuário/cliente no primeiro momento.
-
-### 4. Quais são os componentes de um SI?
-
-> Pessoas, organizações ou procedimentos, tecnologia.
-
-### 5. Selecione a alternativa que melhor descreve um modelo de desenvolvimento iterativo e incremental de um projeto de software:
-
-> Usuário recebe novas versões do produto a cada período. Cada nova versão tem novas funcionalidades, ou melhora funcionalidades já existentes.
-
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
