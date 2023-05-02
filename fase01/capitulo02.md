@@ -3,7 +3,7 @@
 <h2>Capítulo 2: Mas como um Software é criado?</h2>
 </div>
 
-## Conceitos 💡:
+## Conceitos:
 
 1. `Software` é um subsistema de um sistema computacional. São os programas de computadores. Muitos entendem software como um programa de computador escrito numa linguagem específica, a fim de produzir a função e o desempenho esperados. É um conjunto composto de instruções de computador, estruturas de dados e documentos.
 
