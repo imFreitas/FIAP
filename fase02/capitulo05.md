@@ -1,6 +1,6 @@
 <div id="fase02" align="center">
 <h1>FASE 2 - PROTOTYPING</h1>
-<h2>Capítulo 05: Entendendo o ponto de vista do usuário. 👤</h2>
+<h2>Capítulo 05: Entendendo o ponto de vista do usuário.</h2>
 </div>
 
 <div align="center">
