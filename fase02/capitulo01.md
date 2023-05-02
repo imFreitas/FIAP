@@ -108,11 +108,6 @@ Ao inserir ou alterar essa informação, o usuário deverá informar o valor(em 
 
 A partir da lista de recebimentos (que deve ser classificada dos valores com datas mais recentes para as datas mais antigas), têm-se as possibilidades de cadastrar, alterar e remover a informação. Cada informação deverá vir acompanhada de seu próprio botão/hyperlink de alteração e remoção, como você pode ver na imagem abaixo:
 
-<div align="center">
-
-<img src="../assets/imagens-fase02/listagem-recebimento.png">
-
-</div>
 
 > O padrão de navegação CRUD é válido para qualquer informação do sistema.
 
@@ -146,4 +141,4 @@ Os objetivos financeiros também deverão ser listados, sendo necessárias as se
 
 ---
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
