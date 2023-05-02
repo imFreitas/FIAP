@@ -89,18 +89,6 @@ Palavra chave = comprometimento.
 - parte da premissa que os envolvidos já se desvencilharam de paradigmas tradicionais.
 - cliente é uma parte presente e colaborativa no projeto.
 
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/framework.png" /><br>
-<em>Resumo do framework.</em>
-</div>
-
-<br>
-
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/gestao-scrum.png" /><br>
-<em>O framework Scrum.</em>
-</div>
-
 ## Terminologias:
 
 ### 1. Product Backlog:
@@ -145,12 +133,7 @@ Palavra chave = comprometimento.
 
 Um projeto SCRUM começa a partir de um documento apresentado pelo Product Owner chamado `Visão do Produto`.
 - contém todas as necessidades que devem ser atendidas.
-- junta informações fornecidas pelos principais clientes, usuários, patrocinadores, entre outros.
-
-<div align="center">
-<img width="50%" src="../assets/imagens-fase01/visao.png" /><br>
-<em>Documento visão.</em>
-</div>
+- junta informações fornecidas pelos principais clientes, usuários, patrocinadores, entre outros.>
 
 ## Elevator pitch:
 
@@ -235,11 +218,6 @@ Após isso, multiplicam-se os pesos de cada variável para se obter um número q
   - os membros do time avaliam um tamanho para cada um dos itens do Product Backlog.
 
 > o tamanho de uma história não é estimado em dias ou em horas, e sim à complexidade de cada história, e serve de comparação entre elas. Essa numeração atribuída a cada item é chamadade **pontos de complexidade**.
-
-<div align="center">
-<img width="80%" src="../assets/imagens-fase01/fibonacci.png" /><br>
-<em>Sequência de Fibonacci.</em>
-</div>
 
 Passo a passo para jogar o Planning Poker:
 - Cada membro do time tem a capacidade de votar em quaisquer dos valores secretamente uma única vez. Isso pode ser feito por meiode uma ferramenta ou como uso de um baralho com as cartas numeradas na sequência de Fibonacci;
@@ -386,4 +364,4 @@ Nosso produto (proposta de valor, nosso diferencial).
 
 Compartilhe seu documento com outras pessoas, colete feedbacks que enriqueçam sua declaração, melhore seu documento evolutivamente e faça o upload em formato PDF na Plataforma FIAP ON. Ah, se restarem dúvidas, procure o @ do seu tutor no Teams!"
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
