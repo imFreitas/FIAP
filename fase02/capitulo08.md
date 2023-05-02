@@ -1,6 +1,6 @@
 <div id="fase02" align="center">
 <h1>FASE 2 - PROTOTYPING</h1>
-<h2>Capítulo 08: Quem vê interface, vê coração. ❤️</h2>
+<h2>Capítulo 08: Quem vê interface, vê coração. </h2>
 </div>
 
 <div align="center">
@@ -140,7 +140,7 @@
 
 </div>
 
-> O modelo estudado pode ser visualizado [aqui](https://www.figma.com/file/A5ohuwoYD8WDboz2j0APsy/Capitulo08?node-id=0-1&t=Gzxsyw6PFaJMLwBj-0).
+> O modelo estudado pode ser visualizado [aqui](https://www.figma.com/file/L7SbvvGG9nGbKgM5wSGtjp/SAVVY-LOGO?node-id=0-1).
 
 ## Ícone de informação
 
@@ -192,4 +192,4 @@ Mas atenção para as regras:<br>
 
 ---
 
-[Voltar ao início!](https://github.com/monicaquintal/fintech)
+[Voltar ao início!](https://github.com/imFreitas/FIAP)
