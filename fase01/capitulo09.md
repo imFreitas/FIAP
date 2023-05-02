@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## Materializando o projeto 🧩
+## Materializando o projeto
 
 </div>
 
